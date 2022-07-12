@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TensorFlow Object Detection API
 [![TensorFlow 2.2](https://img.shields.io/badge/TensorFlow-2.2-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v2.2.0)
 [![TensorFlow 1.15](https://img.shields.io/badge/TensorFlow-1.15-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v1.15.0)
@@ -240,4 +239,4 @@ to go through a directory of spot plots to find and determine size of TID activi
 a customized version of vis_util.visualize_boxes_and_labels_on_image_array, which outputs a .csv file containing
 (for each spot plot) the number of TIDs detected and the hours of TID activity (which is extent limits of all detected
 TID boxes).
->>>>>>> ce2a105e47d0371d334b3e04f55b8da510186e66
+
