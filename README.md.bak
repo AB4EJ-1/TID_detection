@@ -231,8 +231,7 @@ reporting an issue.
 * Ronny Votel ([@GitHub ronnyvotel](https://github.com/ronnyvotel))
 * Yu-hui Chen ([@GitHub yuhuichen1015](https://github.com/yuhuichen1015))
 * Derek Chow  ([@GitHub derekjchow](https://github.com/derekjchow))
-# 
-# What's different about this version
+=======
 # TID_detection
 Uses Tensorflow Object Detection to find Large Scale Traveling Ionospheric Disturbance signature in radio spot plots.
 It is stock Tensorflow Object Detection EXCEPT that it uses a customized program Object_detection_image_auto_combobox.py
